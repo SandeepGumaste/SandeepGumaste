@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **JS, React, Bootstrap**
+<!-- - 🌱 I’m currently learning **JS, React, Bootstrap** -->
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
