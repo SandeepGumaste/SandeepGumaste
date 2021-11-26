@@ -20,5 +20,7 @@
 <a href="https://www.freecodecamp.org/certification/sandeepp/scientific-computing-with-python-v7" target="_blank"> Scientific Computing with Python </a>
 <br>
 <a href="https://www.freecodecamp.org/certification/sandeepp/responsive-web-design" target="_blank"> Responsive Web Design </a>
+<br>
+<a href="https://www.freecodecamp.org/certification/sandeepp/javascript-algorithms-and-data-structures" target="_blank"> JavaScript Algorithms and Data Structures </a>
 
 
